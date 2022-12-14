@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "987977647911",
+    "project_id": "whatsapp-status-saver-716c1",
+    "storage_bucket": "whatsapp-status-saver-716c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987977647911:android:fe6ef8dce43edb005a0b02",
+        "android_client_info": {
+          "package_name": "com.bumblestudio.whatsappstatussaverfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987977647911-eidpebn2d4gtuelh6k1rb8s3j4v1k8ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoyyK8Hh0oTvooYzZwCo-4MqWWFhzqOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987977647911-eidpebn2d4gtuelh6k1rb8s3j4v1k8ar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987977647911-38ribgt48tbfo1maaqagpi4ukm4gpnvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bumblestudio.whatsappStatusSaverFirst"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
